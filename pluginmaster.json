@@ -22,6 +22,7 @@
     "Changelog": "Name und Fenstertitel auf Light RP Kalender geändert.",
     "AcceptsFeedback": true,
     "RepoUrl": "https://github.com/RolandBergensjn/LightRPKalender",
+    "IconUrl": "https://raw.githubusercontent.com/RolandBergensjn/LightRPKalender/main/icon.png",
     "IsHide": false,
     "IsTestingExclusive": false,
     "DownloadLinkInstall": "https://github.com/RolandBergensjn/LightRPKalender/releases/download/v0.4.1.0/LightRP-Kalender-0.4.1.0.zip",
