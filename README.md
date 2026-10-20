@@ -14,10 +14,11 @@ Danach `/xlplugins` öffnen, die Liste gegebenenfalls aktualisieren und **Light 
 
 ## Bedienung und Voraussetzungen
 
-- Heute / Diese Woche / Nächste Woche; Suche über beide Wochen.
+- Heute / Diese Woche / Nächste Woche; Suche über beide Wochen. Startansicht einstellbar, Standard Heute.
 - Kopierbare Adressen, wahlweise kurz oder ausgeschrieben.
 - Externe Eventlinks, einschließlich Carrd-Beschriftung.
 - Anzeige der verbliebenen Öffnungszeit und Hinweise auf Wartungen.
+- Wochenansichten mit Kalenderwoche; Datenstand mit Datum, Uhrzeit und Zeitzone.
 - Drei gespeicherte Teleport-Modi: Kommando kopieren (Standard), direkte Bezirksreise nach zwei Klicks mit 5-Sekunden-Bestätigung oder nach einem Klick.
 - Teleporthilfe optional: benötigt Lifestream **2.5.4.4**. Ohne installiertes Lifestream bleiben dessen Buttons verborgen. Direkte Reisen benötigen eine geladene Lifestream-Instanz; keine Lifestream-Dateien werden mitgeliefert.
 - Gebaut für Dalamud **API 15**, .NET 10 / Windows x64.
