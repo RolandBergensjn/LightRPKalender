@@ -19,6 +19,9 @@ Danach `/xlplugins` öffnen, die Liste gegebenenfalls aktualisieren und **Light 
 - Externe Eventlinks, einschließlich Carrd-Beschriftung.
 - Anzeige der verbliebenen Öffnungszeit und Hinweise auf Wartungen.
 - Wochenansichten mit Kalenderwoche; Datenstand mit Datum, Uhrzeit und Zeitzone.
+- Einklappbare Tage mit Eventanzahl und Vormerkungszähler; aufgeklappte Tage mit zusätzlichem Abstand.
+- Einstellungen > Tage beim Öffnen: alle aufgeklappt (Standard) oder eingeklappt.
+- Sterne speichern konkrete Termine lokal. Eigener Vorgemerkt-Tab für markierte Termine der geladenen Wochen.
 - Drei gespeicherte Teleport-Modi: Kommando kopieren (Standard), direkte Bezirksreise nach zwei Klicks mit 5-Sekunden-Bestätigung oder nach einem Klick.
 - Teleporthilfe optional: benötigt Lifestream **2.5.4.4**. Ohne installiertes Lifestream bleiben dessen Buttons verborgen. Direkte Reisen benötigen eine geladene Lifestream-Instanz; keine Lifestream-Dateien werden mitgeliefert.
 - Gebaut für Dalamud **API 15**, .NET 10 / Windows x64.
