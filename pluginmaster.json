@@ -3,7 +3,7 @@
     "Author": "Light Kalender",
     "Name": "Light RP Kalender",
     "InternalName": "LightCalendarTravel",
-    "AssemblyVersion": "0.4.4.0",
+    "AssemblyVersion": "0.5.0.0",
     "Description": "Light-Wiki-Kalender mit Adresskopie, externen Links und drei Teleport-Modi. Standard: Kommando kopieren. Optional Bezirksreise über Lifestream 2.5.4.4 nach zwei oder einem Klick. Öffnen mit /lightkalender.",
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/RolandBergensjn/LightRPKalender",
@@ -21,12 +21,12 @@
     "LoadPriority": 0,
     "IconUrl": "https://raw.githubusercontent.com/RolandBergensjn/LightRPKalender/main/icon.png",
     "Punchline": "Light-Wiki-Kalender mit Adresskopie und optionaler Lifestream-Reisehilfe.",
-    "Changelog": "Kompakter Footer ohne ungenutzten Leerraum. Heute zeigt Datum und Termine direkt, ohne einklappbaren Tageskopf.",
+    "Changelog": "Vormerkungen enden automatisch eine Stunde nach bekannter Schließzeit. Grüner Vorgemerkt-Tab bei laufenden RP-Events und dezentere eingeklappte Tage ohne Einträge.",
     "AcceptsFeedback": true,
     "IsHide": false,
     "IsTestingExclusive": false,
-    "DownloadLinkInstall": "https://github.com/RolandBergensjn/LightRPKalender/releases/download/v0.4.4.0/LightRP-Kalender-0.4.4.0.zip",
-    "DownloadLinkUpdate": "https://github.com/RolandBergensjn/LightRPKalender/releases/download/v0.4.4.0/LightRP-Kalender-0.4.4.0.zip",
-    "LastUpdate": 1792848643
+    "DownloadLinkInstall": "https://github.com/RolandBergensjn/LightRPKalender/releases/download/v0.5.0.0/LightRP-Kalender-0.5.0.0.zip",
+    "DownloadLinkUpdate": "https://github.com/RolandBergensjn/LightRPKalender/releases/download/v0.5.0.0/LightRP-Kalender-0.5.0.0.zip",
+    "LastUpdate": 1792850414
   }
 ]

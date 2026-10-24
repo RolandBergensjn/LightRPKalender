@@ -22,6 +22,8 @@ Danach `/xlplugins` öffnen, die Liste gegebenenfalls aktualisieren und **Light 
 - Wochen und Vorgemerkt: einklappbare Tage mit Eventanzahl und Vormerkungszähler; aufgeklappte Tage mit zusätzlichem Abstand. Heute zeigt die Termine direkt.
 - Einstellungen > Tage beim Öffnen: Wochenansichten und Vorgemerkt alle aufgeklappt (Standard) oder eingeklappt.
 - Sterne speichern konkrete Termine lokal. Eigener Vorgemerkt-Tab für markierte Termine der geladenen Wochen.
+- Vormerkungen werden eine Stunde nach bekannter Schließzeit automatisch entfernt, auch nach einem Neustart. Ohne Endzeit wird keine Frist geraten.
+- Vorgemerkt ist grün beschriftet, solange ein markiertes RP-Event läuft. Leere eingeklappte Tage sind dezenter dargestellt.
 - Drei gespeicherte Teleport-Modi: Kommando kopieren (Standard), direkte Bezirksreise nach zwei Klicks mit 5-Sekunden-Bestätigung oder nach einem Klick.
 - Teleporthilfe optional: benötigt Lifestream **2.5.4.4**. Ohne installiertes Lifestream bleiben dessen Buttons verborgen. Direkte Reisen benötigen eine geladene Lifestream-Instanz; keine Lifestream-Dateien werden mitgeliefert.
 - Gebaut für Dalamud **API 15**, .NET 10 / Windows x64.
