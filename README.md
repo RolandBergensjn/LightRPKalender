@@ -15,9 +15,10 @@ Danach `/xlplugins` öffnen, die Liste gegebenenfalls aktualisieren und **Light 
 ## Bedienung und Voraussetzungen
 
 - Heute / Diese Woche / Nächste Woche; Suche über beide Wochen. Startansicht einstellbar, Standard Heute.
-- Neutrale Eventboxen mit abgesetztem Eventart-Label, Stern rechts vom Namen und Kopieren direkt an der Adresse.
-- Einstellungen → Event-Layout: Zeitbalken links (Standard, über die volle Höhe) oder unten mit Restzeit und quadratischen Browser-/Anreisebuttons.
-- Gelbgrüner Restzeitbalken ohne großflächigen grünen Hintergrund; Lichtschein unter dem Mauszeiger separat abschaltbar.
+- Neutrale Eventboxen mit grauer Eventart, hervorgehobener Adresse, Stern rechts vom Namen und Kopieren direkt an der Adresse.
+- Horizontales Layout mit Zeitbalken unten, Restzeit und quadratischen Browser-/Anreisebuttons. Aufgeklappte Details nutzen die ganze innere Kartenbreite.
+- Sanft grüner Restzeitbalken ohne großflächigen grünen Hintergrund. Lila Teleportbutton mit passenden Hover-Farben.
+- Dezentes Punktgitter mit örtlicher Maus-Aufhellung und eigenen Wellen für Teleport, Website, Vormerken, Kopieren und Details. Kurzer grüner Minutenimpuls am laufenden Zeitbalken. Gemeinsam unter Einstellungen → Punktgitter und Animationen abschaltbar.
 - Kopierbare Adressen, wahlweise kurz oder ausgeschrieben.
 - Externe Eventlinks, einschließlich Carrd-Beschriftung.
 - Anzeige der verbliebenen Öffnungszeit und Hinweise auf Wartungen.
