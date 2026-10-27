@@ -15,7 +15,9 @@ Danach `/xlplugins` öffnen, die Liste gegebenenfalls aktualisieren und **Light 
 ## Bedienung und Voraussetzungen
 
 - Heute / Diese Woche / Nächste Woche; Suche über beide Wochen. Startansicht einstellbar, Standard Heute.
-- Kompakt-Layout: Uhrzeiten links am Balken, Stern rechts vom Namen, Kopieren direkt an der Adresse und Anreise oben rechts.
+- Neutrale Eventboxen mit abgesetztem Eventart-Label, Stern rechts vom Namen und Kopieren direkt an der Adresse.
+- Einstellungen → Event-Layout: Zeitbalken links (Standard, über die volle Höhe) oder unten mit Restzeit und quadratischen Browser-/Anreisebuttons.
+- Gelbgrüner Restzeitbalken ohne großflächigen grünen Hintergrund; Lichtschein unter dem Mauszeiger separat abschaltbar.
 - Kopierbare Adressen, wahlweise kurz oder ausgeschrieben.
 - Externe Eventlinks, einschließlich Carrd-Beschriftung.
 - Anzeige der verbliebenen Öffnungszeit und Hinweise auf Wartungen.
