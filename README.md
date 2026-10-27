@@ -19,7 +19,7 @@ Danach `/xlplugins` öffnen, die Liste gegebenenfalls aktualisieren und **Light 
 - Horizontales Layout mit Zeitbalken unten, Restzeit und quadratischen Browser-/Anreisebuttons. Aufgeklappte Details nutzen die ganze innere Kartenbreite.
 - Sanft grüner Restzeitbalken ohne großflächigen grünen Hintergrund. Lila Teleportbutton mit passenden Hover-Farben.
 - Dichteres Punktgitter mit kleineren Punkten, örtlicher Maus-Aufhellung und Wellen ausschließlich aus größer und heller werdenden Punkten. Eigene Effekte für Teleport, Website, Vormerken/Entfernen, Kopieren und Details. Kurzer grüner Minutenimpuls am laufenden Zeitbalken. Gemeinsam unter Einstellungen → Punktgitter und Animationen abschaltbar.
-- Detailwelle beim Öffnen von oben nach unten über die volle aufgeklappte Box; beim Schließen von unten nach oben. Der Inhalt bleibt für die kurze Rückwelle sichtbar und klappt danach zu.
+- Langsamere Punktwellen mit stärkerem Größenimpuls. Details klappen sofort auf oder zu; direkt danach beginnt die Welle mit der neuen Boxgröße. Öffnen von oben nach unten, Schließen von unten nach oben über die bereits eingeklappte Box.
 - Kopierbare Adressen, wahlweise kurz oder ausgeschrieben.
 - Externe Eventlinks, einschließlich Carrd-Beschriftung.
 - Anzeige der verbliebenen Öffnungszeit und Hinweise auf Wartungen.
