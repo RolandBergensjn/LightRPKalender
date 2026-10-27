@@ -15,6 +15,7 @@ Danach `/xlplugins` öffnen, die Liste gegebenenfalls aktualisieren und **Light 
 ## Bedienung und Voraussetzungen
 
 - Heute / Diese Woche / Nächste Woche; Suche über beide Wochen. Startansicht einstellbar, Standard Heute.
+- Kompakt-Layout: Uhrzeiten links am Balken, Stern rechts vom Namen, Kopieren direkt an der Adresse und Anreise oben rechts.
 - Kopierbare Adressen, wahlweise kurz oder ausgeschrieben.
 - Externe Eventlinks, einschließlich Carrd-Beschriftung.
 - Anzeige der verbliebenen Öffnungszeit und Hinweise auf Wartungen.
@@ -39,3 +40,7 @@ Bitte Plugin-/Dalamud-/Lifestream-Version, betroffenen Termin, erwartetes und ta
 ## Kalenderquelle
 
 [FF14-Light Wiki](https://ff14-light.fandom.com/de/wiki/Kategorie:Eventkalender), Inhalte nach [Fandom-Lizenzhinweisen](https://www.fandom.com/de/licensing-de) / CC BY-SA. Öffentlicher API-Abruf ohne Wiki-Login. Eventseiten werden erst nach Klick im normalen Browser geöffnet. Dies ist keine offizielle Anwendung von Square Enix oder den Wiki-Betreibern.
+
+## Laden und Aktualisieren
+
+Beim Öffnen werden gespeicherte Termine sofort angezeigt. Eine gebündelte Hintergrundprüfung vergleicht Wiki-Revisionen und Versionszeitstempel. Nur geänderte Tagesseiten werden geladen; unveränderte Cachedateien bleiben bestehen. Wiederholte automatische Prüfungen sind auf einmal pro Minute beim Öffnen begrenzt. Neu laden erzwingt einen vollständigen Inhaltsabruf. Beim ersten Start nach dem Update werden ältere Cachedateien einmalig ergänzt. Fehler erhalten die zuletzt gespeicherten Daten mit Warnung.
