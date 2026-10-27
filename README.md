@@ -20,6 +20,7 @@ Danach `/xlplugins` öffnen, die Liste gegebenenfalls aktualisieren und **Light 
 - Sanft grüner Restzeitbalken ohne großflächigen grünen Hintergrund. Lila Teleportbutton mit passenden Hover-Farben.
 - Dichteres Punktgitter mit kleineren Punkten, örtlicher Maus-Aufhellung und Wellen ausschließlich aus größer und heller werdenden Punkten. Eigene Effekte für Teleport, Website, Vormerken/Entfernen, Kopieren und Details. Kurzer grüner Minutenimpuls am laufenden Zeitbalken. Gemeinsam unter Einstellungen → Punktgitter und Animationen abschaltbar.
 - Langsamere Punktwellen mit stärkerem Größenimpuls. Details klappen sofort auf oder zu; direkt danach beginnt die Welle mit der neuen Boxgröße. Öffnen ab Höhe der Zeile Hinweise / Details nach unten; Schließen vom unteren Rand der bereits eingeklappten Box bis leicht über diese Zeile.
+- Die Schließwelle ist kürzer; animierte Punkte sind nochmals zehn Prozent größer. Zwei-Klick-Teleport: erster Klick mit gehaltenem, leicht waberndem und scheinbar rotierendem Punktering am Button, zweiter Klick mit Freigabewelle und zwei Folgeimpulsen. Ohne Bestätigung löst sich der Ring nach fünf Sekunden auf. Die Darstellung verlängert die Reisebestätigung nicht.
 - Kopierbare Adressen, wahlweise kurz oder ausgeschrieben.
 - Externe Eventlinks, einschließlich Carrd-Beschriftung.
 - Anzeige der verbliebenen Öffnungszeit und Hinweise auf Wartungen.

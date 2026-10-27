@@ -3,7 +3,7 @@
     "Author": "Light Kalender",
     "Name": "Light RP Kalender",
     "InternalName": "LightCalendarTravel",
-    "AssemblyVersion": "0.8.3.0",
+    "AssemblyVersion": "0.9.0.0",
     "Description": "Light-Wiki-Kalender mit Adresskopie, externen Links und drei Teleport-Modi. Standard: Kommando kopieren. Optional Bezirksreise über Lifestream 2.5.4.4 nach zwei oder einem Klick. Öffnen mit /lightkalender.",
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/RolandBergensjn/LightRPKalender",
@@ -21,12 +21,12 @@
     "LoadPriority": 0,
     "IconUrl": "https://raw.githubusercontent.com/RolandBergensjn/LightRPKalender/main/icon.png",
     "Punchline": "Light-Wiki-Kalender mit Adresskopie und optionaler Lifestream-Reisehilfe.",
-    "Changelog": "Öffnungswelle beginnt auf Höhe von Hinweise / Details und läuft nach unten. Die Schließwelle startet unten und klingt leicht über dieser Zeile aus. Sofortiges Auf- und Zuklappen bleibt erhalten.",
+    "Changelog": "Kürzere Schließwelle und zehn Prozent größere animierte Punkte. Zwei-Klick-Teleport mit gehaltenem, waberndem Punktering für die Bestätigungsfrist; Bestätigen gibt die Welle mit zwei Folgeimpulsen frei. Ein-Klick- und Kopiermodus bleiben unverändert.",
     "AcceptsFeedback": true,
     "IsHide": false,
     "IsTestingExclusive": false,
-    "DownloadLinkInstall": "https://github.com/RolandBergensjn/LightRPKalender/releases/download/v0.8.3.0/LightRP-Kalender-0.8.3.0.zip",
-    "DownloadLinkUpdate": "https://github.com/RolandBergensjn/LightRPKalender/releases/download/v0.8.3.0/LightRP-Kalender-0.8.3.0.zip",
-    "LastUpdate": 1793141317
+    "DownloadLinkInstall": "https://github.com/RolandBergensjn/LightRPKalender/releases/download/v0.9.0.0/LightRP-Kalender-0.9.0.0.zip",
+    "DownloadLinkUpdate": "https://github.com/RolandBergensjn/LightRPKalender/releases/download/v0.9.0.0/LightRP-Kalender-0.9.0.0.zip",
+    "LastUpdate": 1793142243
   }
 ]
