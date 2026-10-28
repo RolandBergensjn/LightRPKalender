@@ -25,6 +25,7 @@ Danach `/xlplugins` öffnen, die Liste gegebenenfalls aktualisieren und **Light 
 - Dezente Punkthelligkeit für Gitter, Wellen und Maus-Aufhellung: maximal 38 Prozent Deckkraft, damit Beschreibungen und Hinweise leichter lesbar bleiben.
 - Teleport-Kommando kopieren zeigt dieselben drei lila Wellen und dieselbe Buttonrückmeldung wie der Ein-Klick-Teleport. Dabei wird weiterhin nur das Kommando kopiert. Die Adresskopie behält ihre kleine Kopierwelle.
 - Einklappbare Einstellungen: Layout (Starttab und Tagesköpfe), Verhalten (Adresskopie und Teleport) und Optik (Punktmatrix, Animationen und Hover-Effekt). Erklärungen stehen in Tooltips; Änderungen werden sofort gespeichert.
+- Buttonwellen starten immer in der Mitte der jeweiligen Schaltfläche: Website/Carrd, Teleport in allen drei Modi, Stern setzen/entfernen und Adresskopie. Die genaue Klickposition innerhalb des Buttons spielt keine Rolle.
 - Kopierbare Adressen, wahlweise kurz oder ausgeschrieben, unter Einstellungen > Verhalten.
 - Externe Eventlinks, einschließlich Carrd-Beschriftung.
 - Anzeige der verbliebenen Öffnungszeit und Hinweise auf Wartungen.
@@ -53,6 +54,7 @@ Bitte Plugin-/Dalamud-/Lifestream-Version, betroffenen Termin, erwartetes und ta
 ## Laden und Aktualisieren
 
 Beim Öffnen werden gespeicherte Termine sofort angezeigt. Eine gebündelte Hintergrundprüfung vergleicht Wiki-Revisionen und Versionszeitstempel. Nur geänderte Tagesseiten werden geladen; unveränderte Cachedateien bleiben bestehen. Wiederholte automatische Prüfungen sind auf einmal pro Minute beim Öffnen begrenzt. Neu laden erzwingt einen vollständigen Inhaltsabruf. Beim ersten Start nach dem Update werden ältere Cachedateien einmalig ergänzt. Fehler erhalten die zuletzt gespeicherten Daten mit Warnung.
+
 
 
 
