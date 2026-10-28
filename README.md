@@ -19,9 +19,10 @@ Danach `/xlplugins` öffnen, die Liste gegebenenfalls aktualisieren und **Light 
 - Horizontales Layout mit Zeitbalken unten, Restzeit und quadratischen Browser-/Anreisebuttons. Aufgeklappte Details nutzen die ganze innere Kartenbreite.
 - Sanft grüner Restzeitbalken ohne großflächigen grünen Hintergrund. Lila Teleportbutton mit passenden Hover-Farben.
 - Dichteres Punktgitter mit kleineren Punkten, örtlicher Maus-Aufhellung und Wellen ausschließlich aus größer und heller werdenden Punkten. Eigene Effekte für Teleport, Website, Vormerken/Entfernen, Kopieren und Details. Kurzer grüner Minutenimpuls am laufenden Zeitbalken. Gemeinsam unter Einstellungen → Punktgitter und Animationen abschaltbar.
-- Langsamere Punktwellen mit gleichmäßig stärkerem Größenimpuls bei allen Aktionen. Breitere Wellenfronten und getrennte Berechnung von Helligkeit und Größe verhindern vorzeitiges Schrumpfen. Details klappen sofort auf oder zu; direkt danach beginnt die Welle mit der neuen Boxgröße. Öffnen ab Höhe der Zeile Hinweise / Details nach unten; Schließen vom unteren Rand der bereits eingeklappten Box bis leicht über diese Zeile.
+- Langsamere Punktwellen mit gleichmäßig stärkerem Größenimpuls bei allen Aktionen. Breitere Wellenfronten und getrennte Berechnung von Helligkeit und Größe verhindern vorzeitiges Schrumpfen. Details klappen sofort auf oder zu; direkt danach durchläuft die Welle die neue Boxgröße zügig: Aufklappen 0,45 bis 1,2 Sekunden, Zuklappen 0,27 bis 0,72 Sekunden. Öffnen ab Höhe der Zeile Hinweise / Details nach unten; Schließen vom unteren Rand der bereits eingeklappten Box bis leicht über diese Zeile.
 - Die Schließwelle ist kürzer; animierte Punkte sind nochmals zehn Prozent größer. Zwei-Klick-Teleport: erster Klick mit gehaltenem, leicht waberndem und scheinbar rotierendem Punktering am Button, zweiter Klick mit Freigabewelle und zwei Folgeimpulsen. Ohne Bestätigung löst sich der Ring nach fünf Sekunden auf. Der Ring verändert ausschließlich vorhandene Matrixpunkte, ohne zusätzliche Ringpunkte. Die Darstellung verlängert die Reisebestätigung nicht.
 - Getrennte Buttonfärbung: Websiteklicks lassen nur den Seitenbutton blau aufleuchten, Teleportklicks nur den Anreisebutton lila.
+- Dezente Punkthelligkeit für Gitter, Wellen und Maus-Aufhellung: maximal 38 Prozent Deckkraft, damit Beschreibungen und Hinweise leichter lesbar bleiben.
 - Kopierbare Adressen, wahlweise kurz oder ausgeschrieben.
 - Externe Eventlinks, einschließlich Carrd-Beschriftung.
 - Anzeige der verbliebenen Öffnungszeit und Hinweise auf Wartungen.
@@ -50,4 +51,5 @@ Bitte Plugin-/Dalamud-/Lifestream-Version, betroffenen Termin, erwartetes und ta
 ## Laden und Aktualisieren
 
 Beim Öffnen werden gespeicherte Termine sofort angezeigt. Eine gebündelte Hintergrundprüfung vergleicht Wiki-Revisionen und Versionszeitstempel. Nur geänderte Tagesseiten werden geladen; unveränderte Cachedateien bleiben bestehen. Wiederholte automatische Prüfungen sind auf einmal pro Minute beim Öffnen begrenzt. Neu laden erzwingt einen vollständigen Inhaltsabruf. Beim ersten Start nach dem Update werden ältere Cachedateien einmalig ergänzt. Fehler erhalten die zuletzt gespeicherten Daten mit Warnung.
+
 
