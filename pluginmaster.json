@@ -3,7 +3,7 @@
     "Author": "Light Kalender",
     "Name": "Light RP Kalender",
     "InternalName": "LightCalendarTravel",
-    "AssemblyVersion": "0.9.4.0",
+    "AssemblyVersion": "0.9.5.1",
     "Description": "Light-Wiki-Kalender mit Adresskopie, externen Links und drei Teleport-Modi. Standard: Kommando kopieren. Optional Bezirksreise über Lifestream 2.5.4.4 nach zwei oder einem Klick. Öffnen mit /lightkalender.",
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/RolandBergensjn/LightRPKalender",
@@ -21,12 +21,12 @@
     "LoadPriority": 0,
     "IconUrl": "https://raw.githubusercontent.com/RolandBergensjn/LightRPKalender/main/icon.png",
     "Punchline": "Light-Wiki-Kalender mit Adresskopie und optionaler Lifestream-Reisehilfe.",
-    "Changelog": "Die helle Restzeitfläche ist rechts bei der Schließungszeit verankert und wandert mit ihrer linken Kante nach rechts. Der Minutenimpuls beginnt an dieser Kante und ist durch größere Punkte und einen breiteren Bereich oberhalb des Balkens deutlicher sichtbar.",
+    "Changelog": "Minutenimpuls zeitgleich mit dem Restminutenwechsel, Balkenecken passend zur Eventbox. Die Punkte des Minutenimpulses behalten den Grünton des Zeitbalkens und werden nicht mehr graublau entsättigt.",
     "AcceptsFeedback": true,
     "IsHide": false,
     "IsTestingExclusive": false,
-    "DownloadLinkInstall": "https://github.com/RolandBergensjn/LightRPKalender/releases/download/v0.9.4.0/LightRP-Kalender-0.9.4.0.zip",
-    "DownloadLinkUpdate": "https://github.com/RolandBergensjn/LightRPKalender/releases/download/v0.9.4.0/LightRP-Kalender-0.9.4.0.zip",
-    "LastUpdate": 1793220714
+    "DownloadLinkInstall": "https://github.com/RolandBergensjn/LightRPKalender/releases/download/v0.9.5.1/LightRP-Kalender-0.9.5.1.zip",
+    "DownloadLinkUpdate": "https://github.com/RolandBergensjn/LightRPKalender/releases/download/v0.9.5.1/LightRP-Kalender-0.9.5.1.zip",
+    "LastUpdate": 1793221337
   }
 ]
