@@ -3,8 +3,8 @@
     "Author": "Light Kalender",
     "Name": "Light RP Kalender",
     "InternalName": "LightCalendarTravel",
-    "AssemblyVersion": "0.9.5.1",
-    "Description": "Light-Wiki-Kalender mit Adresskopie, externen Links und drei Teleport-Modi. Standard: Kommando kopieren. Optional Bezirksreise über Lifestream 2.5.4.4 nach zwei oder einem Klick. Öffnen mit /lightkalender.",
+    "AssemblyVersion": "0.9.5.2",
+    "Description": "Light-Wiki-Kalender mit Adresskopie, externen Links und drei Teleport-Modi. Standard: Kommando kopieren. Optional Bezirksreise über Lifestream nach zwei oder einem Klick. Öffnen mit /lightkalender.",
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/RolandBergensjn/LightRPKalender",
     "Tags": [
@@ -21,13 +21,13 @@
     "LoadPriority": 0,
     "IconUrl": "https://raw.githubusercontent.com/RolandBergensjn/LightRPKalender/main/icon.png",
     "Punchline": "Light-Wiki-Kalender mit Adresskopie und optionaler Lifestream-Reisehilfe.",
-    "Changelog": "Minutenimpuls zeitgleich mit dem Restminutenwechsel, Balkenecken passend zur Eventbox. Die Punkte des Minutenimpulses behalten den Grünton des Zeitbalkens und werden nicht mehr graublau entsättigt.",
+    "Changelog": "Kompatibilität mit Lifestream 2.6.0.13 geprüft. Die starre Versionssperre entfällt; direkte Reisen prüfen die benötigten IPC-Schnittstellen. Kleine Versionsupdates blockieren die Teleportfunktion damit nicht allein wegen ihrer Nummer.",
     "AcceptsFeedback": true,
     "IsHide": false,
     "IsTestingExclusive": false,
-    "DownloadLinkInstall": "https://github.com/RolandBergensjn/LightRPKalender/releases/download/v0.9.5.1/LightRP-Kalender-0.9.5.1.zip",
-    "DownloadLinkUpdate": "https://github.com/RolandBergensjn/LightRPKalender/releases/download/v0.9.5.1/LightRP-Kalender-0.9.5.1.zip",
-    "LastUpdate": 1793221337
+    "DownloadLinkInstall": "https://github.com/RolandBergensjn/LightRPKalender/releases/download/v0.9.5.2/LightRP-Kalender-0.9.5.2.zip",
+    "DownloadLinkUpdate": "https://github.com/RolandBergensjn/LightRPKalender/releases/download/v0.9.5.2/LightRP-Kalender-0.9.5.2.zip",
+    "LastUpdate": 1795718940
   },
   {
     "Author": "Glamour-Sammlung",

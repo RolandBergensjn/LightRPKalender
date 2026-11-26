@@ -36,10 +36,10 @@ Danach `/xlplugins` öffnen, die Liste gegebenenfalls aktualisieren und **Light 
 - Vormerkungen werden eine Stunde nach bekannter Schließzeit automatisch entfernt, auch nach einem Neustart. Ohne Endzeit wird keine Frist geraten.
 - Vorgemerkt ist grün beschriftet, solange ein markiertes RP-Event läuft. Leere eingeklappte Tage sind dezenter dargestellt.
 - Einstellungen > Verhalten zeigt einen Hinweis, wenn Lifestream für die Teleportfunktion fehlt. Drei gespeicherte Teleport-Modi: Kommando kopieren (Standard), direkte Bezirksreise nach zwei Klicks mit 5-Sekunden-Bestätigung oder nach einem Klick.
-- Teleporthilfe optional: benötigt Lifestream **2.5.4.4**. Ohne installiertes Lifestream bleiben dessen Buttons verborgen. Direkte Reisen benötigen eine geladene Lifestream-Instanz; keine Lifestream-Dateien werden mitgeliefert.
+- Teleporthilfe optional: benötigt ein installiertes Lifestream. Direkte Reisen prüfen die drei benötigten IPC-Endpunkte statt einer festen Versionsnummer. Ohne installiertes Lifestream bleiben dessen Buttons verborgen. Direkte Reisen benötigen eine geladene Lifestream-Instanz; keine Lifestream-Dateien werden mitgeliefert.
 - Gebaut für Dalamud **API 15**, .NET 10 / Windows x64.
 
-Die Reisehilfe verwendet das in Lifestream 2.5.4.4 statisch untersuchte Grundstück-0-Verhalten und endet am Wohnbezirk, nicht am Haus oder gezielt in der Erweiterung. Dieses Verhalten ist undokumentiert und versionsabhängig. Die Anreise und mögliche Bewegung organisiert Lifestream. Kopieren ist der Standard; direkte Reisen erfolgen erst nach entsprechender Einstellung und bewussten Klicks.
+Die Reisehilfe verwendet das in Lifestream 2.5.4.4 und 2.6.0.13 statisch untersuchte Grundstück-0-Verhalten und endet am Wohnbezirk, nicht am Haus oder gezielt in der Erweiterung. Dieses Verhalten ist undokumentiert und versionsabhängig. Die Anreise und mögliche Bewegung organisiert Lifestream. Kopieren ist der Standard; direkte Reisen erfolgen erst nach entsprechender Einstellung und bewussten Klicks.
 
 Dies ist ein benutzerdefiniertes Repository, keine Aufnahme in das offizielle Dalamud-Pluginverzeichnis. Ein öffentliches GitHub-Repository und seine Downloads sind für jeden abrufbar; die Beschränkung auf einen Testkreis ist organisatorisch, keine technische Zugriffssperre.
 
@@ -54,6 +54,7 @@ Bitte Plugin-/Dalamud-/Lifestream-Version, betroffenen Termin, erwartetes und ta
 ## Laden und Aktualisieren
 
 Beim Öffnen werden gespeicherte Termine sofort angezeigt. Eine gebündelte Hintergrundprüfung vergleicht Wiki-Revisionen und Versionszeitstempel. Nur geänderte Tagesseiten werden geladen; unveränderte Cachedateien bleiben bestehen. Wiederholte automatische Prüfungen sind auf einmal pro Minute beim Öffnen begrenzt. Neu laden erzwingt einen vollständigen Inhaltsabruf. Beim ersten Start nach dem Update werden ältere Cachedateien einmalig ergänzt. Fehler erhalten die zuletzt gespeicherten Daten mit Warnung.
+
 
 
 
